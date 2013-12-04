@@ -1,0 +1,6 @@
+c:\users\paulina\documents\visual studio 2013\Projects\bitmap19907paulinarubio\bitmap19907paulinarubio\bin\Debug\bitmap19907paulinarubio.exe.config
+c:\users\paulina\documents\visual studio 2013\Projects\bitmap19907paulinarubio\bitmap19907paulinarubio\bin\Debug\bitmap19907paulinarubio.exe
+c:\users\paulina\documents\visual studio 2013\Projects\bitmap19907paulinarubio\bitmap19907paulinarubio\bin\Debug\bitmap19907paulinarubio.pdb
+c:\users\paulina\documents\visual studio 2013\Projects\bitmap19907paulinarubio\bitmap19907paulinarubio\obj\Debug\bitmap19907paulinarubio.csprojResolveAssemblyReference.cache
+c:\users\paulina\documents\visual studio 2013\Projects\bitmap19907paulinarubio\bitmap19907paulinarubio\obj\Debug\bitmap19907paulinarubio.exe
+c:\users\paulina\documents\visual studio 2013\Projects\bitmap19907paulinarubio\bitmap19907paulinarubio\obj\Debug\bitmap19907paulinarubio.pdb
